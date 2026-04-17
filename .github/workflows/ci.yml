@@ -2,7 +2,7 @@ name: Solution-Task-2-Push
 
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
 
 env:
   DOTNET_VERSION: "8.0.x"
